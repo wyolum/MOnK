@@ -1,4 +1,4 @@
-update=Sun 25 Sep 2016 09:45:16 PM EDT
+update=Mon 26 Sep 2016 10:38:54 PM EDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
+LibName31=libraries/chip-dips

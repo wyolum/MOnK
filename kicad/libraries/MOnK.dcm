@@ -4,4 +4,8 @@ $CMP CONN_01X02
 D Connector 01x02
 $ENDCMP
 #
+$CMP CONN_01X03
+D Connector 01x03
+$ENDCMP
+#
 #End Doc Library
